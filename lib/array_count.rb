@@ -10,3 +10,4 @@ def count_empty_strings(array)
   array.count do |empt]
   empt.empty?
 end
+end
